@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.google.android.gmscore.integ.client.gass" 
-    android:versionCode="960"
-    android:versionName="9.6.0">
-
-    <application>
-    </application>
-
+<?xml version="1.0"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.android.gms.gass"
+    android:versionCode="961"
+    android:versionName="9.6.1">
+    <uses-sdk android:minSdkVersion="9"/>
+    <application/>
 </manifest>
