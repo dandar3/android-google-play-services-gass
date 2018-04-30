@@ -9,7 +9,7 @@ https://maven.google.com/com/google/android/gms/play-services-gass/15.0.0/play-s
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/15.0.0)
 
 **References:**
-- https://developers.google.com/android/guides/releases#march_28_2018_-_version_1201
+- https://developers.google.com/android/guides/releases#april_12_2018_-_version_1500
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
