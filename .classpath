@@ -6,6 +6,7 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-ads-base"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-ads-identifier"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-ads-lite"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-basement"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-tasks"/>
